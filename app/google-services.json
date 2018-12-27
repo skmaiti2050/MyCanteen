@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "187670759948",
+    "firebase_url": "https://mycanteen-2604d.firebaseio.com",
+    "project_id": "mycanteen-2604d",
+    "storage_bucket": "mycanteen-2604d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187670759948:android:6c281c0103bebce7",
+        "android_client_info": {
+          "package_name": "com.sujit.mycanteen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187670759948-2p1d1bvk8m2gkfmqa3qrgtdfsqrbg7kc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sujit.mycanteen",
+            "certificate_hash": "0ab0c35598c7ac4d8c571a4b1bd9003e28b0cc2b"
+          }
+        },
+        {
+          "client_id": "187670759948-602ovc3mucvmk2dd2u3qt6236n817mge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjy5GRBXMUq1SlmYPUKZZKYWSpAieIvjU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187670759948-602ovc3mucvmk2dd2u3qt6236n817mge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
